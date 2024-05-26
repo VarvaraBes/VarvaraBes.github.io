@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.home {
+    max-width: 940px;
+    margin: auto;
+}
+
+.home__title {
+    margin: 0;
+    margin-bottom: 20px;
+}
+.home__descr {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.home__photo {
+    width: 100%;
+}

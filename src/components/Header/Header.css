@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    max-width: 940px;
+    margin: 0 auto;
+    border-bottom: 1px solid #828282;
+    padding: 32px 0px;
+    margin-bottom: 40px;
+}
+
+.list {
+    width: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-item a{
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
